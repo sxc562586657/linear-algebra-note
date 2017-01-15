@@ -12,6 +12,7 @@
 ## 目录
 - 第01集 [方程组的几何解释](Lec1.ipynb)
 - 第02集 [矩阵消元](Lec2.ipynb)
+- 第02集 [矩阵乘法和逆](Lec3.ipynb)
 
 
 笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
