@@ -15,6 +15,7 @@
 - 第03集 [乘法与逆矩阵](Lec3.ipynb)
 - 第04集 [A的LU分解](Lec4.ipynb)
 - 第05集 [转置、置换、n维实数向量空间](Lec5.ipynb)
+- 第06集 [列空间与零空间](Lec6.ipynb)
 
 
 笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
