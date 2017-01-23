@@ -16,6 +16,11 @@
 - 第04集 [A的LU分解](Lec4.ipynb)
 - 第05集 [转置、置换、n维实数向量空间](Lec5.ipynb)
 - 第06集 [列空间与零空间](Lec6.ipynb)
+- 第07集 [解Ax=0:主元与特解](Lec7.ipynb)
+- 第08集 [解Ax=b:解的结构与可解性](Lec8.ipynb)
+- 第09集 [线性相关性、基、维数](Lec9.ipynb)
+- 第10集 [四种基础子空间](Lec10.ipynb)
+- 第11集 [矩阵空间;单秩矩阵](Lec11.ipynb)
 
 
 笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
